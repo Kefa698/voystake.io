@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "logo": {
+            "image": "../assets/img/header/logo.svg",
+            "title": "enVoy"
+        }
+    },
+    "pools" : [
+        {
+            "id": 0,
+            "name": "XDC-VOY",
+            "link": "https://goerli.etherscan.io//address/0x072C231Ff8895df8abE876E1c1b430B8A5B52554",
+            "pair": "0x072C231Ff8895df8abE876E1c1b430B8A5B52554",
+            "contract": "https://app.uniswap.org/#/add/v2/0xEEfea6e575603adc0F4EF4a43092C4a7CE989868/0x8B7E85AD7D1255186a2286f8751BD53a25Db5CC8"
+        },
+        {
+            "id": 1,
+            "name": "ETH-VOY",
+            "link": "https://goerli.etherscan.io/address/0xEf7689c234bc19Cf5eF738784A79C4d4d0787D13",
+            "pair": "0xEf7689c234bc19Cf5eF738784A79C4d4d0787D13",
+            "contract": "https://app.uniswap.org/#/add/v2/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/0x8B7E85AD7D1255186a2286f8751BD53a25Db5CC8"
+        }
+    ]
+}
