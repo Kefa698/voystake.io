@@ -76,7 +76,7 @@ function Intro(props) {
                                             <div className="actions d-flex mt-auto pb-4 mt-2">
                                                 <DropdownButton title="Change Pool/Pair" className="action-pool-change">
                                                     <Dropdown.Item onClick={() => { setPair(0) }} >USDC-VOY LP</Dropdown.Item>
-                                                    <Dropdown.Item onClick={() => { setPair(1) }}>ETH-VOY LP</Dropdown.Item>
+                                                    <Dropdown.Item onClick={() => { setPair(1) }}>USDT-VOY LP</Dropdown.Item>
                                                 </DropdownButton>
                                             </div>
                                             <div className="actions d-flex mt-auto pb-4">
